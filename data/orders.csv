@@ -1,0 +1,6 @@
+order_id,user_id,book_id,quantity,order_date,payment_mode
+1001,101,1,1,2023-02-01,UPI
+1002,102,2,1,2023-02-05,Card
+1003,103,4,2,2023-03-10,NetBanking
+1004,104,5,1,2023-03-12,UPI
+1005,105,3,1,2023-02-20,Card
