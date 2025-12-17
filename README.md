@@ -22,4 +22,13 @@ The dataset consists of:
 - Sales trends and customer behavior insights
 - Visualization using bar charts
 
+  ## 📊 Exploratory Data Analysis
+
+- Revenue analysis by genre
+- Best-selling books identification
+- Customer spending behavior analysis
+- Ratings-based insights
+- Data visualization using Matplotlib
+
+
 ## 📁 Project Structure
